@@ -1,4 +1,3 @@
-<img width="1888" height="886" alt="image" src="https://github.com/user-attachments/assets/a97e7173-8a45-4452-bacd-c5f1a614a8f1" /># Emergency-HelpLine
 ans-1 : getElementById()-> We use this when we want to get only one element from html since id's are generally unique returns the specified object.
 getElementByClassName()->we use this when we want to get a group of elements, since classes are generally shared by multiple elements,returns htmlcollection.
 
@@ -17,4 +16,3 @@ its useful because it works even for the elements added after the page loads, an
 ans-5 : ->preventDefault() prevents default action of an element from happening
 
 ->stopPropagation() stops the event from bubbling in the dom
-
